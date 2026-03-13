@@ -1,0 +1,13 @@
+$first-color: hsl(220, 15%, 55%);
+$second-color: white;
+$third-color: hsl(220, 15%, 15%);
+$fourth-color: lightgray;
+$fifth-color: black;
+
+body {
+  color: hsl(220, 15%, 55%);
+}
+
+.card-body p {
+color: hsl(220, 15%, 15%);
+}
